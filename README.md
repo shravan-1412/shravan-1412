@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm shravan kumar chaturvedula</h1>
+<h3 align="center">A dedicated DevOps and AWS Cloud Engineer passionate about building scalable, automated, and secure infrastructure. My focus lies in streamlining cloud-native deployments, optimizing CI/CD pipelines, and enhancing software delivery through infrastructure as code and DevSecOps practices. With hands-on experience in managing RHEL-based Linux systems, I’ve effectively automated system tasks using shell scripting to reduce manual workload and increase efficiency. I specialize in provisioning cloud infrastructure using Terraform, integrating it seamlessly with Ansible for configuration management. My Git expertise includes transitioning teams from GitFlow to a feature-branching strategy to support agile microservices development. I’ve architected and maintained robust CI/CD pipelines using tools like Jenkins, embedding static and dynamic security scans to ensure compliance and reduce vulnerabilities. In the containerization space, I’ve designed optimized Docker images and used Helm for deploying and managing applications on Kubernetes, reducing deployment time. For observability, I’ve implemented the Prometheus–Grafana stack along with EFK, enabling real-time monitoring and faster incident response. My cloud proficiency extends across key AWS services including EC2, RDS, EKS, S3, CloudFront, Auto Scaling, and VPCs, ensuring high availability and fault tolerance across environments. I actively promote the shift-left approach to identify and resolve issues early in the development lifecycle, improving overall software quality and reducing QA/production defects. Beyond technical work, I enjoy mentoring junior engineers, conducting training sessions, and documenting cloud architectures to ensure knowledge sharing and smoother onboarding. I'm always excited to collaborate on open-source DevOps projects and contribute to solutions that drive innovation, reliability, and scalability in modern software delivery.</h3>
 
-<!--
-**shravan-1412/shravan-1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shravan-1412&label=Profile%20views&color=0e75b6&style=flat" alt="shravan-1412" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shravan-1412" alt="shravan-1412" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **ecommerce-application,Interview-Preparation ,Ansible-PoC ,Terraform-Jenkins-PoC, K8-Jenkins-PoC, Helm,Docker**
+
+- 📝 I regularly write articles on [https://medium.com/@shravan.ch6](https://medium.com/@shravan.ch6)
+
+- 📫 How to reach me **shravan.ch6@gmail.com**
+
+- ⚡ Fun fact **✨ I'm always open to networking, collaboration, and sharing knowledge in the DevOps and Cloud community.                                                                                  🚀 Let’s build scalable, secure, and impactful solutions together!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/shravan-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shravan-devops" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
